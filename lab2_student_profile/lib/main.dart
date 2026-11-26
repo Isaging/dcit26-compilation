@@ -81,11 +81,11 @@ class StudentProfileScreen extends StatelessWidget {
                           width: 2.5,
                         ),
                       ),
-                      child: const Icon(
-                        Icons.person,
-                        size: 42,
-                        color: primaryColor,
-                      ),
+                      child: ClipOval(
+                        child: Image.asset(
+                          'assets/pusa.jpg'
+                        ),
+                      )
                     ),
                     const SizedBox(width: 16),
                     Expanded(
