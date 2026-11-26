@@ -19,8 +19,8 @@ class ProfileScreen extends StatelessWidget {
             const SizedBox(height: 24),
             Center(
               child: Container(
-                width: 96,
-                height: 96,
+                width: 118,
+                height: 118,
                 decoration: BoxDecoration(
                   shape: BoxShape.circle,
                   color: colorScheme.primaryContainer,
@@ -29,10 +29,10 @@ class ProfileScreen extends StatelessWidget {
                     width: 2,
                   ),
                 ),
-                child: Icon(
-                  Icons.person_outline,
-                  size: 48,
-                  color: colorScheme.primary,
+                child: ClipOval(
+                  child: Image.asset(
+                    'assets/cat.jpg'
+                  ),
                 ),
               ),
             ),
