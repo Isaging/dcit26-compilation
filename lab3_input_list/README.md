@@ -1,6 +1,7 @@
 # Lab 3 - Button, Text Input and List (`lab3_input_list`)
 
 Flutter application implementing **Laboratory Exercise #3: Button, Text Input and List** (User input, callbacks, and local state) for DCIT 26 - Application Development and Emerging Technologies.
+Author: Joyce Alvarez
 
 ## Objectives
 

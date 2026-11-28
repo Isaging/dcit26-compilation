@@ -1,6 +1,7 @@
 # Lab 5 - Navigation (`lab5_navigation`)
 
 Flutter application implementing **Laboratory Exercise #5: Navigation** using only Flutter's built-in `Navigator`, `MaterialPageRoute`, `Scaffold`, and `Drawer` widgets (no third-party navigation packages).
+Author: Johann Carl Ronario
 
 ## Project Structure
 

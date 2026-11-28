@@ -1,6 +1,7 @@
 # Lab 4 - Modal Dialog (`lab4_modal`)
 
 Flutter application implementing **Laboratory Exercise #4: Create an App Using Basic Components** (Images, dialogs, scrolling, and styling).
+Author: Johann Carl Ronario
 
 ## Project Structure
 

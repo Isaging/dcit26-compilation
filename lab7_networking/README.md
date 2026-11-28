@@ -1,6 +1,7 @@
 # lab7_networking
 
-A new Flutter project.
+A new Flutter application about **Laboratory Activity 7: Networking** using '(https://randomuser.me/api/)', where the app gets random person informations from the other application and showcase it.
+Author: Mike Angelo A. Metillo
 
 ## Getting Started
 

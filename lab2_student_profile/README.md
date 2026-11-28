@@ -1,6 +1,8 @@
 # Lab 2 - Student Profile (`lab2_student_profile`)
 
 Flutter application implementing **Laboratory Activity #2: Student Profile** (Composing a profile from Flutter widgets) for DCIT 26 - Application Development and Emerging Technologies.
+Author: Joyce Alvarez
+Co-author: Mike Angelo A. Metillo
 
 ## Objectives
 

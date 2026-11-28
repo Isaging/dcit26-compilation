@@ -1,6 +1,8 @@
 # Lab 6 - Product Data (`lab6_products`)
 
 Flutter application implementing **Laboratory Exercise #6: Product Data** using an in-memory Dart `List<Product>`, `ListView.builder`, and constructor-based navigation to a detail screen (no networking or database persistence).
+Author: Johann Carl Ronario
+Co-author: Mike Angelo A. Metillo
 
 ## Project Structure
 

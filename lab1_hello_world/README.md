@@ -1,6 +1,7 @@
 # Lab 1 - Hello World (`lab1_hello_world`)
 
 Flutter application implementing **Laboratory Exercise #1: Hello World** (Flutter widgets and the Dart entry point) for DCIT 26 - Application Development and Emerging Technologies.
+Author: Joyce Alvarez
 
 ## Objectives
 
